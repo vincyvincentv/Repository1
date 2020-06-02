@@ -18,6 +18,7 @@ public class TestProject {
         // TODO code application logic here
         System.out.println("My first github program");
         System.out.println("Changes");
+        System.out.println("Changes");
     }
     
 }
